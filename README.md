@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# CodeReact
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React practice/sandbox app bootstrapped with Create React App, used for experimenting with components and UI patterns.
 
 ## Available Scripts
 
